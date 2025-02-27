@@ -1,0 +1,18 @@
+{
+  "name": "@padcom/vue-custom-element-delegates-focus",
+  "version": "0.0.1",
+  "description": "Example project illustrating what happens when delegatesFocus is not set to true",
+  "author": "Matthias Hryniszak <padcom@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "@vue/tsconfig": "^0.5.1",
+    "typescript": "^5.6.3",
+    "vite": "^6.2.0",
+    "vue": "3.5.13"
+  }
+}
